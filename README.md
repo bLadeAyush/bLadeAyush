@@ -9,9 +9,9 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-bLadeAyush-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bLadeAyush)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bLadeAyush)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bLadeAyush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-prasad-b42992322)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadom9411@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Crypticyogi)
 
 <img src="https://komarev.com/ghpvc/?username=bLadeAyush&style=for-the-badge&color=6366f1" alt="Profile Views"/>
 
@@ -29,7 +29,7 @@ class Ayush:
         self.university  = "IIIT Kalyani"
         self.degree      = "B.Tech in Computer Science & Engineering"
         self.cgpa        = "8.9 / 10"
-        self.role        = ["Full Stack Developer", "Open Source Contributor"]
+        self.role        = ["Software engineer","Full Stack Developer", "Open Source Contributor"]
         self.interests   = [
             "Full Stack Development",
             "System Design & Distributed Systems",
@@ -216,7 +216,7 @@ The official website for Google Developer Groups IIIT Kalyani chapter, built wit
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bLadeAyush?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10)](https://leetcode.com/bLadeAyush)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bLadeAyush?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10)](https://leetcode.com/u/Crypticyogi)
 
 </div>
 
