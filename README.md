@@ -216,8 +216,7 @@ The official website for Google Developer Groups IIIT Kalyani chapter, built wit
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bLadeAyush?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10)](https://leetcode.com/u/Crypticyogi)
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bLadeAyush?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10)](https://leetcode.com/u/bLadeAyush/)
 </div>
 
 ---
