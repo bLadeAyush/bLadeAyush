@@ -198,7 +198,7 @@ The official website for Google Developer Groups IIIT Kalyani chapter, built wit
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bLadeAyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bLadeAyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bLadeAyush&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff"/>
 
@@ -216,7 +216,7 @@ The official website for Google Developer Groups IIIT Kalyani chapter, built wit
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bLadeAyush?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10)](https://leetcode.com/u/bLadeAyush/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Crypticyogi?theme=dark&font=Hepta%20Slab)](https://leetcode.com/u/bLadeAyush/)
 </div>
 
 ---
